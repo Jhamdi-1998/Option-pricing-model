@@ -32,7 +32,10 @@
 ## Analytics, documentation and READ.ME
 
 - [X] Create a READ.ME doc
-- [ ] Import and complete (if needed) the theory papers
+- [ ] Add Greeks section in theory paper
+- [ ] Add Monte Carlo simulation in the theory paper
+- [ ] Add Binomial Tree section to theory paper
+- [ ] Import the option price theory paper
 - [ ] Explain on READ.ME the aim and functionality of each model
 - [ ] Write the requirements down on requirements.txt
 
