@@ -45,7 +45,7 @@ Put Rho: -6.067835327904063e-138
 ## Buidling the python models
 
 - [x] Build Black-Scholes model
-- [ ] Greeks
+- [x] Greeks
 - [ ] Monte Carlo simulation
 - [ ] Binomial Tree model
 
